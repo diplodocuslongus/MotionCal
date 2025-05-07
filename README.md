@@ -1,3 +1,5 @@
+https://www.pjrc.com/store/prop_shield.html
+
 # setup for LINUX
 
 sudo apt install mesa-common-dev
